@@ -1,18 +1,33 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1 class="title">{{page.title}}</h1>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<h2> Hello Again! </h2>
+Welcome to the About page! Here you will find everything about you. Unfortunately I am not a stalker so there's not much information here...
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Likes:
+- Pokemon Showdown
+- that game with the squids that try to kill each other
+- saying bruh
+- eating apples on forks
+- eating forks on apples
+- programming stuff
+- being cool lol
+
+### hates
+- me (jk jk jk)
+- ur mom (jk jk jk jk jk)
+- cheese
+- cheese (again, cause you really hate cheese)
+- cheese
+- cheese
+- cheese
+- cheese
+- cheese
+- cheese
+- and finally, **cheese**
 
 
-[jekyll-organization]: https://github.com/jekyll
